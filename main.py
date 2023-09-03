@@ -205,7 +205,7 @@ def main():
     # Write linkedin and other credentials on the sidebar footer
     # Include sidebar with credentials
     with st.sidebar:
-        st.markdown('Chat With DIDX.net (V 0.1)')
+        # st.markdown('Chat With DIDX.net (V 0.1)')
         st.markdown(""" 
                     #### Let's connect: [Kamran Feroz](https://www.linkedin.com/in/kamranferoz/)
                     """)
